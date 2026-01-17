@@ -20,17 +20,14 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhi0214" target="_blank">
+  <a href="https://www.linkedin.com/in/deepak-singh-863b4b332/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/whereRyou/" target="_blank">
+  <a href="https://leetcode.com/u/blaDe/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" title="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/scobydobydoo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" title="Kaggle"/>
-  </a>
 </p>
 
 ---
