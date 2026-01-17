@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/blaDe/" target="_blank">
+  <a href="https://leetcode.com/u/DeadBlade/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" title="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;
